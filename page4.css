@@ -1,0 +1,26 @@
+.box{
+  height: 200px;
+  width: 300px;
+  background-color: aqua;
+  border:4px;
+  border-radius: 9px;
+  padding: 10px 20px 10px;
+  margin: 300px auto;
+  
+}
+.btn{
+  float: right;
+  background-color: rgb(31, 162, 243);
+}
+
+  #para{
+    display: flex;
+    justify-content: space-between;
+    text-decoration:none;
+  }
+  a{
+    text-decoration: none;
+  }
+  body{
+    background-image: url(./images/blur\ image.jpg);
+  }
